@@ -8,3 +8,5 @@ Nu ska jag testa och "fördärva" commitmeddelandet.
 En sista text för att se hur status reagerar.
 
 Tjoap!
+
+tjenis
