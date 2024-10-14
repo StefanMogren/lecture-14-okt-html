@@ -1,2 +1,2 @@
-# lecture-14-okt-html
+# Lektionsrepo 17 oktober, lära sig HTML
 Repo för att lära sig Git och GitHub och HTML
