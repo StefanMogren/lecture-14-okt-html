@@ -6,3 +6,5 @@ Nu skriver jag något nytt för att bättre förstå mig på Git och GitHub. Jag
 Nu ska jag testa och "fördärva" commitmeddelandet.
 
 En sista text för att se hur status reagerar.
+
+Tjoap!
